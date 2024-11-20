@@ -9,7 +9,7 @@ This script take a link of any URL and generate a `QR code` corresponding to it.
 Run `pip install qrcode` 
 
 ### How to run the script
-- Provide your desired URL in the script
+- Provide your desired URL in the script.
 - Execute `python3 QR_code_generator.py`
 
 ### Screenshot showing the sample use of the script
